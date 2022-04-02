@@ -1,0 +1,13 @@
+README
+
+Steps to Execute Code
+
+1.	pip3 install pandas
+2.	pip3 install numpy
+3.	python3 main.py
+
+
+Further Step-by-Step Instructions
+
+1.	Keep input files CGMData.csv and InsulinData.csv in the same level as main.py because main.py uses the relative path to read the input files.
+2.	The output Results.csv is generated at the same level as main.py and input files CGMData.csv and InsulinData.csv
